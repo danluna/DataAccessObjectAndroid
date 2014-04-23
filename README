@@ -1,0 +1,3 @@
+This is an app used to learn the Data Access Object abstraction. A Data Access Object ecapsulates access to data storage. In this instance, a SQLite DB is being communicated with by the DAO. A client will use the DAO for simple to use methods to create, update, delete, and get data from the DB. So far, the MainActivity class uses the DAO object to easily manipulate its data.
+
+Further information on Data Access Object can be found at http://www.oracle.com/technetwork/java/dataaccessobject-138824.html
